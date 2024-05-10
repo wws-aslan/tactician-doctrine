@@ -13,7 +13,7 @@ This package adds plugins for using Tactician with Doctrine components, either t
 Via Composer
 
 ``` bash
-$ composer require league/tactician-doctrine
+$ composer require wws-aslan/tactician-doctrine
 ```
 
 Next, add the `ORM\TransactionMiddleware` to your CommandBus:
